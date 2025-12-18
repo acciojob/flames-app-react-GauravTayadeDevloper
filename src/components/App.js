@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-=======
-import React, { useState } from "react";
->>>>>>> 68abcafe7cad539dffd2a8bed4b99ca0c5626453
-
-import React, { useState } from "react";
+import React from "react";
+import  { useState } from "react";
 function App() {
   const [name1, setName1] = useState("");
   const [name2, setName2] = useState("");
