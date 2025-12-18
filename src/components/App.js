@@ -1,5 +1,7 @@
-import React, {Component, useState} from "react";
+import React, {Component} from "react";
 import '../styles/App.css';
+import RelationCalculator from "./RealtionCalculator.js";
+
 
 class App extends Component {
     render() {
@@ -7,6 +9,7 @@ class App extends Component {
         return(
             <div id="main">
                {/* Do not remove the main div */}
+               <RelationCalculator/>
             </div>
         )
     }
