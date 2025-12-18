@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import React, { useState } from "react";
+>>>>>>> 68abcafe7cad539dffd2a8bed4b99ca0c5626453
 
 import React, { useState } from "react";
 function App() {
