@@ -75,7 +75,7 @@ function App() {
         Clear
       </button>
 
-      {result && <h3 data-testid="answer">{result}</h3>}
+     <h3 data-testid="answer">{result}</h3>
     </div>
   );
 }
