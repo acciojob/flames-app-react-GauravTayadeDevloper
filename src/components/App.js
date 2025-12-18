@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./styles/App.css";
 
 function App() {
   const [name1, setName1] = useState("");
